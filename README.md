@@ -1,2 +1,2 @@
-# MyFirstRepo
-This is my first repo.
+# QuizApp
+This is a small quiz app I made.
